@@ -1,6 +1,12 @@
 # GeoPython Lessons
 
-Introduction to geoprocessing data with Python.
+__Introduction to geoprocessing data with Python.__
+
+April 2016:
+Laboratory of GIS and Remote Sensing (LAST) - Doñana Biological Station.
+
+Author: [Cayetano Benavent](https://github.com/cayetanobv) - GIS Analyst at Geographica.
+
 
 ### Unit01 Introduction to Python
 - [Introduction to Python - pdf](docs/pdf/01-introduccion.pdf)
