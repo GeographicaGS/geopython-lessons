@@ -18,7 +18,7 @@ __Notebooks__
 - [Notebook - unit01_04](notebooks/unit01/unit01_04.ipynb)
 - [Notebook - unit01_05](notebooks/unit01/unit01_05.ipynb)
 
-### unit02 Basic concepts of Python I
+### Unit02 Basic concepts of Python I
 - [Basic concepts of Python I - pdf](docs/pdf/02-Conceptos_basicos_python_I.pdf)
 
 __Notebooks__
