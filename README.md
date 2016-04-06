@@ -32,7 +32,7 @@ __Notebooks__
 - [Notebook - unit02_08](notebooks/unit02/unit02_08.ipynb)
 
 ### Unit03 Basic concepts of Python II
-- [Basic concepts of Python II - pdf](docs/pdf/02-Conceptos_basicos_python_II.pdf)
+- [Basic concepts of Python II - pdf](docs/pdf/03-Conceptos_basicos_python_II.pdf)
 
 __Notebooks__
 - [Notebook - unit03_01](notebooks/unit03/unit03_01.ipynb)
