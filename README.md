@@ -89,3 +89,7 @@ __Notebooks__
 - [Notebook - unit07_01](notebooks/unit07/unit07_01.ipynb)
 - [Notebook - unit07_02](notebooks/unit07/unit07_02.ipynb)
 - [Notebook - unit07_03](notebooks/unit07/unit07_03.ipynb)
+
+### Final Practice exercises
+- [Final - vector](code/final/vector)
+- [Final - raster](code/final/raster)
