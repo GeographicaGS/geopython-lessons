@@ -12,3 +12,4 @@ Results:
 
 Solved practical exercise:
 [buffertest.py](buffertest.py)
+[compbuffer.py](compbuffer.py)
