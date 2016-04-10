@@ -13,3 +13,5 @@ Results:
 
 Solved practical exercise:
 [mslpeurope.py](mslpeurope.py)
+
+![mslpeurope](img/mslp_europe.png)
