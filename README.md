@@ -5,7 +5,7 @@ __Introduction to geoprocessing data with Python.__
 April 2016:
 [Laboratory of GIS and Remote Sensing (LAST) - Doñana Biological Station](http://www.ebd.csic.es/laboratorio-sig-y-teledeteccion-last).
 
-Author: [Cayetano Benavent](https://github.com/cayetanobv) - GIS Analyst at [Geographica](www.geographica.gs).
+Author: [Cayetano Benavent](https://github.com/cayetanobv) - GIS Analyst at [Geographica](http://www.geographica.gs/).
 
 
 ### Unit01 Introduction to Python
