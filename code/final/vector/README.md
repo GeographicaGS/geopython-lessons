@@ -11,5 +11,5 @@ Results:
 - Filter features: 'ma' string in field 'name'.
 
 Solved practical exercise:
-[buffertest.py](buffertest.py)
-[compbuffer.py](compbuffer.py)
+- [buffertest.py](buffertest.py)
+- [compbuffer.py](compbuffer.py)
